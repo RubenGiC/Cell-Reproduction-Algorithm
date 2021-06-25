@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruben/Escritorio/Practicas/MH/proyecto final/Celulas/cec2017real/code/CellsAlgorithm.cpp
+iostream
+-
+vector
+-
+random
+-
+cmath
+-
+stdlib.h
+-
+algorithm
+-
+ctime
+-
+cec17.h
+/home/ruben/Escritorio/Practicas/MH/proyecto final/Celulas/cec2017real/code/cec17.h
+
+/home/ruben/Escritorio/Practicas/MH/proyecto final/Celulas/cec2017real/code/cec17.h
+

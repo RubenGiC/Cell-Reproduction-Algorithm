@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/testrandom.dir/testrandom.cc.o  -o testrandom  -Wl,-rpath,"/home/ruben/Escritorio/Practicas/MH/proyecto final/Celulas/cec2017real/code" libcec17_test_func.so 

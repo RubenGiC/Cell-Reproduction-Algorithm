@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruben/Escritorio/Practicas/MH/proyecto final/Celulas/cec2017real/code/cec17.c
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+cec17.h
+/home/ruben/Escritorio/Practicas/MH/proyecto final/Celulas/cec2017real/code/cec17.h
+
+/home/ruben/Escritorio/Practicas/MH/proyecto final/Celulas/cec2017real/code/cec17.h
+
+/home/ruben/Escritorio/Practicas/MH/proyecto final/Celulas/cec2017real/code/cec17_test_func.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+malloc.h
+-
+

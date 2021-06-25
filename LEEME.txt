@@ -1,0 +1,9 @@
+Para la compilación he reutilizado el MAKE que nos proporciona cec17, para que sea más comodo, de tal forma que con hacer cmake y despues make bastara para compilar el programa.
+
+En cuanto a la ejecución solo recibe un parametro que es el nombre del algoritmo a usar. Para ejecutarlo solo hay que poner:
+
+./cells <cells o cellsSW>
+
+Y con eso ya realiza el calculo con ese algoritmo, para los nombres de las carpetas uso el mismo nombre que el que recibe por parametro results_cells y results_cellsSW.
+
+si quiere cambiar las semillas, tendra que modificar el codigo en el main de CellsAlgorithm.cpp que contiene un vector de 10 semillas 1 para cada ejecución.
